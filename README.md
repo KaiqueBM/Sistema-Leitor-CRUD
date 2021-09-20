@@ -5,9 +5,8 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-tecnologias">Tecnologias</a> •
- <a href="#-site">Site</a> • 
- <a href="#-responsivo">Responsivo</a> • 
- <a href="#-como-executar">Executar</a> 
+ <a href="#-app">App</a> •  
+ <a href="#-como-executar">Executar</a> •
 </p>
 
 ## 💻 Sobre o projeto
